@@ -18,7 +18,7 @@
       border-radius: 10px;
     }
     .hero{
-      background: url('/hero-image-1.jpg') no-repeat;
+      background: url('hero-image-1.jpg') no-repeat;
       width: 418px;
       height: 280px;
        border-radius: 10px;
@@ -44,7 +44,7 @@
        line-height: 23px;
     }
     .icon{
-        background: url('/avatar-image-business-card-1.png');
+        background: url('avatar-image-business-card-1.png');
         width: 40px;
         height: 40px;
         border-radius: 50%;
@@ -68,4 +68,5 @@
         font-size: 0.875rem;
         font-weight: 600;
     }
+
 
