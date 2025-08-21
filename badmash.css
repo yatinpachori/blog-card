@@ -27,6 +27,9 @@
     }
     .hero img{
       margin-top: 215px;
+      width: 418px;
+     height: 60px;
+     
     }
     .middle{
       padding: 30px;
@@ -69,6 +72,7 @@
         font-size: 0.875rem;
         font-weight: 600;
     }
+
 
 
 
